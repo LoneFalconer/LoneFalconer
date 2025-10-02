@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+* My name is LoneFalconer and I am a student at CSU.
+* I am currently learning about working in a team enviorment in CS 314.
+
 <!--
 **LoneFalconer/LoneFalconer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
