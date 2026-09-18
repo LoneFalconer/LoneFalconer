@@ -1,4 +1,9 @@
-## Hi there 👋
+## Lone Falconer
+### Current Work:
+- SYN Flood Attack Tool
+  - Utilizes Custom SYN packets
+  - Raw Sockets to transmit SYN Packets
+  - Optional Flags to customize packet and traffic behavior 
 
 <!--
 **LoneFalconer/LoneFalconer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
