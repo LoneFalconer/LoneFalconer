@@ -3,7 +3,13 @@
 - SYN Flood Attack Tool
   - Utilizes Custom SYN packets
   - Raw Sockets to transmit SYN Packets
-  - Optional Flags to customize packet and traffic behavior 
+  - Optional Flags to customize packet and traffic behavior
+- Workout App
+  - First AI progrmaming project
+  - Using a harness
+  - Created the specs and used AI to create
+  - Offline app where you can export or import data but no networking
+  - Uses Kotlin, SQL, and JSON.
 
 <!--
 **LoneFalconer/LoneFalconer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
